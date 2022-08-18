@@ -66,5 +66,25 @@ body{
 }
 
 .content .buttons{
-    
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.buttons button{
+    border: none;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 15px 0;
+    font-size: 17px;
+    border-radius: 5px;
+    width: calc(100% / 2 - 8px);
+}
+
+.buttons .refresh-word{
+    background: #6c757d;
+}
+.buttons .confirm-word{
+    background: #5372f0;
 }
