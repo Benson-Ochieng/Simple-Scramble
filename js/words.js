@@ -14,5 +14,17 @@ const words =[
     {
         word: "library",
         hint: "A collection of books"
+    },
+    {
+        word: "Messi",
+        hint: "The Goat"
+    },
+    {
+        word: "Chelsea",
+        hint: "The Blues"
+    },
+    {
+        word: "Nairobi",
+        hint: "Capital city Kenya"
     }
 ];

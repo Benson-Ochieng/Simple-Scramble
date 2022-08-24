@@ -13,7 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #2933f0;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
 }
 
 .container{
